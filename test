@@ -1,0 +1,497 @@
+object(SimpleXMLElement)#6 (1) {
+  [0]=>
+  string(7) "Journal"
+}
+object(SimpleXMLElement)#7 (1) {
+  ["@attributes"]=>
+  array(3) {
+    ["rel"]=>
+    string(9) "alternate"
+    ["type"]=>
+    string(9) "text/html"
+    ["href"]=>
+    string(17) "http://colly.com/"
+  }
+}
+object(SimpleXMLElement)#6 (0) {
+}
+object(SimpleXMLElement)#7 (1) {
+  [0]=>
+  string(25) "1959-11-01T13:08:46+00:00"
+}
+object(SimpleXMLElement)#6 (2) {
+  ["@attributes"]=>
+  array(2) {
+    ["url"]=>
+    string(24) "http://www.pmachine.com/"
+    ["version"]=>
+    string(5) "1.6.8"
+  }
+  [0]=>
+  string(16) "ExpressionEngine"
+}
+object(SimpleXMLElement)#7 (1) {
+  [0]=>
+  string(34) "Copyright (c) 2010, Simon Collison"
+}
+object(SimpleXMLElement)#6 (1) {
+  ["@attributes"]=>
+  array(3) {
+    ["rel"]=>
+    string(5) "start"
+    ["type"]=>
+    string(20) "application/atom+xml"
+    ["href"]=>
+    string(38) "http://feeds.feedburner.com/colly/WraZ"
+  }
+}
+object(SimpleXMLElement)#7 (10) {
+  ["title"]=>
+  string(26) "Redesigning the undesigned"
+  ["link"]=>
+  object(SimpleXMLElement)#6 (1) {
+    ["@attributes"]=>
+    array(3) {
+      ["rel"]=>
+      string(9) "alternate"
+      ["type"]=>
+      string(9) "text/html"
+      ["href"]=>
+      string(53) "http://colly.com/comments/redesigning_the_undesigned/"
+    }
+  }
+  ["id"]=>
+  string(39) "tag:colly.com,{date format="%Y"}:/1.791"
+  ["issued"]=>
+  string(25) "2010-01-25T02:18:04+00:00"
+  ["modified"]=>
+  string(25) "2010-01-25T14:30:05+00:00"
+  ["summary"]=>
+  string(311) "For two years—and with much embarrassment, I have been apologising for my undesigned blog. Well, no more shall I blush. To mark this fourth redesign and rebuild, I’ve decided to detail my inspiration, ideas, processes, type and design choices—and hopefully explain what this miscellany thing is all about."
+  ["body"]=>
+  string(311) "For two years—and with much embarrassment, I have been apologising for my undesigned blog. Well, no more shall I blush. To mark this fourth redesign and rebuild, I’ve decided to detail my inspiration, ideas, processes, type and design choices—and hopefully explain what this miscellany thing is all about."
+  ["created"]=>
+  string(25) "2010-01-25T02:18:04+00:00"
+  ["author"]=>
+  object(SimpleXMLElement)#8 (2) {
+    ["name"]=>
+    string(14) "Simon Collison"
+    ["email"]=>
+    string(15) "simon@colly.com"
+  }
+  ["content"]=>
+  object(SimpleXMLElement)#9 (1) {
+    ["@attributes"]=>
+    array(2) {
+      ["type"]=>
+      string(9) "text/html"
+      ["mode"]=>
+      string(7) "escaped"
+    }
+  }
+}
+object(SimpleXMLElement)#10 (10) {
+  ["title"]=>
+  string(30) "Five Years of Quiet Revolution"
+  ["link"]=>
+  object(SimpleXMLElement)#7 (1) {
+    ["@attributes"]=>
+    array(3) {
+      ["rel"]=>
+      string(9) "alternate"
+      ["type"]=>
+      string(9) "text/html"
+      ["href"]=>
+      string(57) "http://colly.com/comments/five_years_of_quiet_revolution/"
+    }
+  }
+  ["id"]=>
+  string(39) "tag:colly.com,{date format="%Y"}:/1.790"
+  ["issued"]=>
+  string(25) "2009-11-13T18:00:17+00:00"
+  ["modified"]=>
+  string(25) "2010-01-23T21:47:18+00:00"
+  ["summary"]=>
+  string(228) "Nice people sometimes ask where the videos of my talks are. Well, most of my presentations have not been recorded, were screwed up during recording, are being sat on by the organisers, or were recorded in the dark without a mic."
+  ["body"]=>
+  string(228) "Nice people sometimes ask where the videos of my talks are. Well, most of my presentations have not been recorded, were screwed up during recording, are being sat on by the organisers, or were recorded in the dark without a mic."
+  ["created"]=>
+  string(25) "2009-11-13T18:00:17+00:00"
+  ["author"]=>
+  object(SimpleXMLElement)#9 (2) {
+    ["name"]=>
+    string(14) "Simon Collison"
+    ["email"]=>
+    string(15) "simon@colly.com"
+  }
+  ["content"]=>
+  object(SimpleXMLElement)#8 (1) {
+    ["@attributes"]=>
+    array(2) {
+      ["type"]=>
+      string(9) "text/html"
+      ["mode"]=>
+      string(7) "escaped"
+    }
+  }
+}
+object(SimpleXMLElement)#6 (10) {
+  ["title"]=>
+  string(17) "EECI2009 round-up"
+  ["link"]=>
+  object(SimpleXMLElement)#10 (1) {
+    ["@attributes"]=>
+    array(3) {
+      ["rel"]=>
+      string(9) "alternate"
+      ["type"]=>
+      string(9) "text/html"
+      ["href"]=>
+      string(44) "http://colly.com/comments/eeci2009_round_up/"
+    }
+  }
+  ["id"]=>
+  string(39) "tag:colly.com,{date format="%Y"}:/1.789"
+  ["issued"]=>
+  string(25) "2009-11-01T10:31:05+00:00"
+  ["modified"]=>
+  string(25) "2010-01-26T10:30:06+00:00"
+  ["summary"]=>
+  string(270) "I can’t wait any longer. It has taken me over a week to collate all that follows, with videos, slides, images and reports still appearing day by day. I’m channeling my enthusiasm and pooling almost everything from the last two weeks into this post for your pleasure."
+  ["body"]=>
+  string(270) "I can’t wait any longer. It has taken me over a week to collate all that follows, with videos, slides, images and reports still appearing day by day. I’m channeling my enthusiasm and pooling almost everything from the last two weeks into this post for your pleasure."
+  ["created"]=>
+  string(25) "2009-11-01T10:31:05+00:00"
+  ["author"]=>
+  object(SimpleXMLElement)#8 (2) {
+    ["name"]=>
+    string(14) "Simon Collison"
+    ["email"]=>
+    string(15) "simon@colly.com"
+  }
+  ["content"]=>
+  object(SimpleXMLElement)#9 (1) {
+    ["@attributes"]=>
+    array(2) {
+      ["type"]=>
+      string(9) "text/html"
+      ["mode"]=>
+      string(7) "escaped"
+    }
+  }
+}
+object(SimpleXMLElement)#7 (10) {
+  ["title"]=>
+  string(26) "CSS Mastery Second Edition"
+  ["link"]=>
+  object(SimpleXMLElement)#6 (1) {
+    ["@attributes"]=>
+    array(3) {
+      ["rel"]=>
+      string(9) "alternate"
+      ["type"]=>
+      string(9) "text/html"
+      ["href"]=>
+      string(53) "http://colly.com/comments/css_mastery_second_edition/"
+    }
+  }
+  ["id"]=>
+  string(39) "tag:colly.com,{date format="%Y"}:/1.788"
+  ["issued"]=>
+  string(25) "2009-10-17T20:22:32+00:00"
+  ["modified"]=>
+  string(25) "2010-01-22T00:24:33+00:00"
+  ["summary"]=>
+  string(162) "In early 2006, a book called CSS Mastery was published. Written expertly by Andy, it also featured case studies from Cameron and myself, plus a foreword from Dan."
+  ["body"]=>
+  string(162) "In early 2006, a book called CSS Mastery was published. Written expertly by Andy, it also featured case studies from Cameron and myself, plus a foreword from Dan."
+  ["created"]=>
+  string(25) "2009-10-17T20:22:32+00:00"
+  ["author"]=>
+  object(SimpleXMLElement)#9 (2) {
+    ["name"]=>
+    string(14) "Simon Collison"
+    ["email"]=>
+    string(15) "simon@colly.com"
+  }
+  ["content"]=>
+  object(SimpleXMLElement)#8 (1) {
+    ["@attributes"]=>
+    array(2) {
+      ["type"]=>
+      string(9) "text/html"
+      ["mode"]=>
+      string(7) "escaped"
+    }
+  }
+}
+object(SimpleXMLElement)#10 (10) {
+  ["title"]=>
+  string(19) "The Process Toolbox"
+  ["link"]=>
+  object(SimpleXMLElement)#7 (1) {
+    ["@attributes"]=>
+    array(3) {
+      ["rel"]=>
+      string(9) "alternate"
+      ["type"]=>
+      string(9) "text/html"
+      ["href"]=>
+      string(63) "http://colly.com/comments/the_process_toolbox_a_nine_part_epic/"
+    }
+  }
+  ["id"]=>
+  string(39) "tag:colly.com,{date format="%Y"}:/1.786"
+  ["issued"]=>
+  string(25) "2009-08-14T22:46:36+00:00"
+  ["modified"]=>
+  string(25) "2010-01-24T22:20:37+00:00"
+  ["summary"]=>
+  string(307) "A few weeks ago, whilst summing up @Media 2009 I pledged that I’d try and get a transcript of my presentation onto the interwebs in some form or other. Well, I did just that, although I got a bit carried away, turning it into a nine-part series over at Erskine Labs. Here’s a handy list of entry points:"
+  ["body"]=>
+  string(307) "A few weeks ago, whilst summing up @Media 2009 I pledged that I’d try and get a transcript of my presentation onto the interwebs in some form or other. Well, I did just that, although I got a bit carried away, turning it into a nine-part series over at Erskine Labs. Here’s a handy list of entry points:"
+  ["created"]=>
+  string(25) "2009-08-14T22:46:36+00:00"
+  ["author"]=>
+  object(SimpleXMLElement)#8 (2) {
+    ["name"]=>
+    string(14) "Simon Collison"
+    ["email"]=>
+    string(15) "simon@colly.com"
+  }
+  ["content"]=>
+  object(SimpleXMLElement)#9 (1) {
+    ["@attributes"]=>
+    array(2) {
+      ["type"]=>
+      string(9) "text/html"
+      ["mode"]=>
+      string(7) "escaped"
+    }
+  }
+}
+object(SimpleXMLElement)#6 (10) {
+  ["title"]=>
+  string(30) "Starting from the beginning…"
+  ["link"]=>
+  object(SimpleXMLElement)#10 (1) {
+    ["@attributes"]=>
+    array(3) {
+      ["rel"]=>
+      string(9) "alternate"
+      ["type"]=>
+      string(9) "text/html"
+      ["href"]=>
+      string(54) "http://colly.com/comments/starting_from_the_beginning/"
+    }
+  }
+  ["id"]=>
+  string(39) "tag:colly.com,{date format="%Y"}:/1.785"
+  ["issued"]=>
+  string(25) "2009-08-14T19:43:54+00:00"
+  ["modified"]=>
+  string(25) "2010-01-24T22:19:55+00:00"
+  ["summary"]=>
+  string(105) "Last week I was invited to do a video interview with Ryan for his please start from the beginning series."
+  ["body"]=>
+  string(105) "Last week I was invited to do a video interview with Ryan for his please start from the beginning series."
+  ["created"]=>
+  string(25) "2009-08-14T19:43:54+00:00"
+  ["author"]=>
+  object(SimpleXMLElement)#9 (2) {
+    ["name"]=>
+    string(14) "Simon Collison"
+    ["email"]=>
+    string(15) "simon@colly.com"
+  }
+  ["content"]=>
+  object(SimpleXMLElement)#8 (1) {
+    ["@attributes"]=>
+    array(2) {
+      ["type"]=>
+      string(9) "text/html"
+      ["mode"]=>
+      string(7) "escaped"
+    }
+  }
+}
+object(SimpleXMLElement)#7 (10) {
+  ["title"]=>
+  string(16) "Geek In The Park"
+  ["link"]=>
+  object(SimpleXMLElement)#6 (1) {
+    ["@attributes"]=>
+    array(3) {
+      ["rel"]=>
+      string(9) "alternate"
+      ["type"]=>
+      string(9) "text/html"
+      ["href"]=>
+      string(43) "http://colly.com/comments/geek_in_the_park/"
+    }
+  }
+  ["id"]=>
+  string(39) "tag:colly.com,{date format="%Y"}:/1.787"
+  ["issued"]=>
+  string(25) "2009-08-13T23:16:48+00:00"
+  ["modified"]=>
+  string(25) "2010-01-22T00:24:49+00:00"
+  ["summary"]=>
+  string(369) "The almost-annual Geek In The Park get-together takes place this Saturday (15th August) in Leamington Spa. I will be hammering on about Nailing Your Own Projects, and Remy will be probing HTML5 and Friends. If you can make it, we’d all love to see you, even if - like my good self - you hate the idea of being a “geek”. Still, it trumps “nerd”. Or “spod”."
+  ["body"]=>
+  string(369) "The almost-annual Geek In The Park get-together takes place this Saturday (15th August) in Leamington Spa. I will be hammering on about Nailing Your Own Projects, and Remy will be probing HTML5 and Friends. If you can make it, we’d all love to see you, even if - like my good self - you hate the idea of being a “geek”. Still, it trumps “nerd”. Or “spod”."
+  ["created"]=>
+  string(25) "2009-08-13T23:16:48+00:00"
+  ["author"]=>
+  object(SimpleXMLElement)#8 (2) {
+    ["name"]=>
+    string(14) "Simon Collison"
+    ["email"]=>
+    string(15) "simon@colly.com"
+  }
+  ["content"]=>
+  object(SimpleXMLElement)#9 (1) {
+    ["@attributes"]=>
+    array(2) {
+      ["type"]=>
+      string(9) "text/html"
+      ["mode"]=>
+      string(7) "escaped"
+    }
+  }
+}
+object(SimpleXMLElement)#10 (10) {
+  ["title"]=>
+  string(31) "@Media2009: The Process Toolbox"
+  ["link"]=>
+  object(SimpleXMLElement)#7 (1) {
+    ["@attributes"]=>
+    array(3) {
+      ["rel"]=>
+      string(9) "alternate"
+      ["type"]=>
+      string(9) "text/html"
+      ["href"]=>
+      string(56) "http://colly.com/comments/media2009_the_process_toolbox/"
+    }
+  }
+  ["id"]=>
+  string(39) "tag:colly.com,{date format="%Y"}:/1.783"
+  ["issued"]=>
+  string(25) "2009-06-27T03:09:58+00:00"
+  ["modified"]=>
+  string(25) "2010-01-22T00:25:59+00:00"
+  ["summary"]=>
+  string(244) "Yesterday I was very fortunate to speak at @Media 2009 alongside Andy Clarke, Jon Hicks, Dan Rubin, Mark Boulton and Jason Santa Maria. It’s been a fun but intense few days. Here’s a summary -&nbsp; a bit rushed as I’m somewhat knackered."
+  ["body"]=>
+  string(244) "Yesterday I was very fortunate to speak at @Media 2009 alongside Andy Clarke, Jon Hicks, Dan Rubin, Mark Boulton and Jason Santa Maria. It’s been a fun but intense few days. Here’s a summary -&nbsp; a bit rushed as I’m somewhat knackered."
+  ["created"]=>
+  string(25) "2009-06-27T03:09:58+00:00"
+  ["author"]=>
+  object(SimpleXMLElement)#9 (2) {
+    ["name"]=>
+    string(14) "Simon Collison"
+    ["email"]=>
+    string(15) "simon@colly.com"
+  }
+  ["content"]=>
+  object(SimpleXMLElement)#8 (1) {
+    ["@attributes"]=>
+    array(2) {
+      ["type"]=>
+      string(9) "text/html"
+      ["mode"]=>
+      string(7) "escaped"
+    }
+  }
+}
+object(SimpleXMLElement)#6 (10) {
+  ["title"]=>
+  string(45) "ExpressionEngine &amp; CodeIgniter Conference"
+  ["link"]=>
+  object(SimpleXMLElement)#10 (1) {
+    ["@attributes"]=>
+    array(3) {
+      ["rel"]=>
+      string(9) "alternate"
+      ["type"]=>
+      string(9) "text/html"
+      ["href"]=>
+      string(66) "http://colly.com/comments/expressionengine_codeigniter_conference/"
+    }
+  }
+  ["id"]=>
+  string(39) "tag:colly.com,{date format="%Y"}:/1.782"
+  ["issued"]=>
+  string(25) "2009-06-09T20:05:23+00:00"
+  ["modified"]=>
+  string(25) "2010-01-22T00:26:25+00:00"
+  ["summary"]=>
+  string(212) "The Netherlands (Leiden specifically) will be like some sort of EE honeypot on 22nd and 23rd October 2009, for the inaugural ExpressionEngine &amp; CodeIgniter Conference (EECI2009). Here’s a bit more detail…"
+  ["body"]=>
+  string(212) "The Netherlands (Leiden specifically) will be like some sort of EE honeypot on 22nd and 23rd October 2009, for the inaugural ExpressionEngine &amp; CodeIgniter Conference (EECI2009). Here’s a bit more detail…"
+  ["created"]=>
+  string(25) "2009-06-09T20:05:23+00:00"
+  ["author"]=>
+  object(SimpleXMLElement)#8 (2) {
+    ["name"]=>
+    string(14) "Simon Collison"
+    ["email"]=>
+    string(15) "simon@colly.com"
+  }
+  ["content"]=>
+  object(SimpleXMLElement)#9 (1) {
+    ["@attributes"]=>
+    array(2) {
+      ["type"]=>
+      string(9) "text/html"
+      ["mode"]=>
+      string(7) "escaped"
+    }
+  }
+}
+object(SimpleXMLElement)#7 (10) {
+  ["title"]=>
+  string(25) "Future Of Web Design Tour"
+  ["link"]=>
+  object(SimpleXMLElement)#6 (1) {
+    ["@attributes"]=>
+    array(3) {
+      ["rel"]=>
+      string(9) "alternate"
+      ["type"]=>
+      string(9) "text/html"
+      ["href"]=>
+      string(52) "http://colly.com/comments/future_of_web_design_tour/"
+    }
+  }
+  ["id"]=>
+  string(39) "tag:colly.com,{date format="%Y"}:/1.781"
+  ["issued"]=>
+  string(25) "2009-06-09T03:40:39+00:00"
+  ["modified"]=>
+  string(25) "2010-01-22T00:26:40+00:00"
+  ["summary"]=>
+  string(271) "It’s turning into a busy speaking year. As well as a few business and university talks, I recently presented as part of the Future Of Web Apps Tour, which went down a treat. I’ve got @Media coming up in a couple of weeks, and something special in October (more soon)."
+  ["body"]=>
+  string(271) "It’s turning into a busy speaking year. As well as a few business and university talks, I recently presented as part of the Future Of Web Apps Tour, which went down a treat. I’ve got @Media coming up in a couple of weeks, and something special in October (more soon)."
+  ["created"]=>
+  string(25) "2009-06-09T03:40:39+00:00"
+  ["author"]=>
+  object(SimpleXMLElement)#9 (2) {
+    ["name"]=>
+    string(14) "Simon Collison"
+    ["email"]=>
+    string(15) "simon@colly.com"
+  }
+  ["content"]=>
+  object(SimpleXMLElement)#8 (1) {
+    ["@attributes"]=>
+    array(2) {
+      ["type"]=>
+      string(9) "text/html"
+      ["mode"]=>
+      string(7) "escaped"
+    }
+  }
+}

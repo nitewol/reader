@@ -18,7 +18,7 @@ abstract class Mapper {
 	private $query_cache = array();
 
 	function __construct() {
-		$this->db = new MySQLi( $host, $user, $pass, $db ); 
+		$this->db = new MySQLi( 'localhost', 'root', 'root', 'reader' ); 
 		$this->init_table_fields();
 		$this->query_cache = array( 'init' => 'init' );
 	}
