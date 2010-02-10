@@ -1,0 +1,37 @@
+body {
+	color:#444;
+	font-family:helvetica, Arial, sans-serif;
+}
+
+h1 {
+	font-size:3em;
+}
+
+div#content {
+	margin:0 auto;
+	width:960px;
+}
+
+ul#nav {
+	margin:0;
+	padding:0;
+	font-weight:bold;
+	border-bottom:1px solid #ddd;
+}
+
+ul#nav li {
+	display:inline;	
+	margin:0;
+	padding:0;
+	margin-right:20px;
+}
+
+ul#nav li a {
+	color:#333;
+	text-decoration:none;
+}
+
+ul#nav li a:hover {
+	color:#fff;
+	background-color:#333;
+}
