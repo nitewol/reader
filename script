@@ -1,7 +1,8 @@
+#! /usr/bin/php
 <?php
 	function __autoload($class) {
 		require 'lib/' . strtolower($class) . '.php';
 	}
 
   $r = new FeedReader();
-  $r->read('http://feeds.feedburner.com/colly/WraZ');
+  $r->read('http://najafali.blogspot.com/feeds/posts/default?alt=rss');

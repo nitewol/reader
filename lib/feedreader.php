@@ -16,15 +16,18 @@ class FeedReader {
     //$feed->save();
     
     $xml = new SimpleXMLElement($raw);
-    foreach($xml->children() as $child){
-      var_dump($child);
+
+    $items = array();
+    foreach($xml->channel->item as $xml_item){
+      //var_dump($xml_item);
+      $item  = new Item();
+      $item->title((string)$xml_item->title);
+      $item->body((string)$xml_item->description);
+      //var_dump($item);
+      $items[] = $item;
     }
 
-    
-    
-
+    $feed->items($items);
+    $feed->save();
   }
-  
-
-
 }

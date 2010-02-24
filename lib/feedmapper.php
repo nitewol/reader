@@ -15,5 +15,20 @@
     static function instance() {
       return new self();
     }
+    
+    function save(Feed $feed){
+      parent::save($feed);
+      foreach($feed->items() as $item){
+        $item->feed_id($feed->id());
+        $item->save();
+      }
+      
+    }
   }
+
+
+
+
+
+
 
