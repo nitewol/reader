@@ -2,6 +2,8 @@
 
   class FeedMapper extends Mapper {
   
+    private static $instance;
+  
     function table_name(){
       return 'feeds';
     }
@@ -13,7 +15,10 @@
     }
     
     static function instance() {
-      return new self();
+      if (!isset(self::$instance)) {
+        self::$instance = new self();
+      }
+      return self::$instance;
     }
     
     function save(Feed $feed){

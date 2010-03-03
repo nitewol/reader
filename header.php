@@ -10,6 +10,7 @@
 <head>
 	<title>RSS Reader</title>
 	<?= $helper->stylesheet_link_tag('style'); ?>
+
 </head>
 <body>
 	<div id='content'>

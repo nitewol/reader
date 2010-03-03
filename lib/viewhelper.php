@@ -89,4 +89,12 @@ class ViewHelper {
 					'content' => implode( ', ', $keywords )
 					));
 	}
+	
+	function anchor_tag( $link_text='', $href='#', $target="top", $attributes=array() ){
+	  $target = '_' . $target;
+	  return  $this->html_tag( 'a', $link_text, array_merge($attributes, array(
+	      'href' => $href,
+	      'target' => $target
+	    )));
+	}
 }
